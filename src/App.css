@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@import "~antd/dist/antd.css";
+
+.paddingData {
+  padding-inline-start: 0;
+}
+
+.TitleName {
+  text-align: center;
+}
+
+.fileBox,
+.forksBox {
+  margin-top: 1em;
+  border: 1px solid grey;
+  padding: 1em;
+}
+
+.numberFiles {
+  font-size: 1em;
+  color: #f50;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
