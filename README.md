@@ -1,8 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-This project is create a Single page application with react using GIST API.
+This project is to create a Single page application with react using GIST API.
 
 To run the project, simply clone the project, install npm and use the below commands to run
 localhost server.
